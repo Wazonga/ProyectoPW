@@ -1,9 +1,10 @@
 body{
-background-color: white;
+background-color: black;
 width: 80%;
 margin: auto;
 }
-h1{color: black;
+
+h1{color: whitesmoke;
 text-align: center;
 font-size: 30pt
 }
@@ -13,7 +14,7 @@ text-align: center;
 font-size: 25pt
 }
 
-h3{color: black;
+h3{color: whitesmoke;
     text-align: center;
     font-size: 25pt
     }
@@ -21,38 +22,36 @@ h3{color: black;
 p{
 font-size: 18pt;
 text-align: justify;
-color: rgb(12,13,100)
+color: whitesmoke
 }
 
-strong{color:coral;}
-em{color:darkcyan}
 ol{
 list-style-type:lower-latin;
 font-size:18pt;
 line-height:1.5;
 }
+
 ul{
 list-style-type: square;
 font-size: 18pt;
 line-height:1,5;
+text-align: center;
 }
+
 a:hover{
 text-decoration: none;
-background-color: aqua;
-color: black;
+background-color: black;
+color: orange;
 font-style: italic;
 }
 
 #logo{
-margin: auto;
-display: block;
-width: 40%;
+    margin: auto;
+    display: block;
+    width: 20%;
+    text-align: center;
 }
-#pedrito{
-margin: auto;
-display: block;
-width: 30%;
-}
+
 #turtle{
 margin: auto;
 display: block;
