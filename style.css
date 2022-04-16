@@ -1,5 +1,63 @@
-h1{color: #Fa4807;
-    text-shadow: 4px 4px 5px black;
-        text-align: center;
-        font-size: 30pt
+body{
+background-color: white;
+width: 80%;
+margin: auto;
+}
+h1{color: black;
+text-shadow: 4px 4px 5px black;
+text-align: center;
+font-size: 30pt
+}
+
+h2{color: orange;
+text-shadow: 4px 4px 5px gray;
+text-align: center;
+font-size: 25pt
+}
+
+h3{color: black;
+    text-shadow: 4px 4px 5px gray;
+    text-align: center;
+    font-size: 25pt
+    }
+
+p{
+font-size: 18pt;
+text-align: justify;
+color: rgb(12,13,100)
+}
+
+strong{color:coral;}
+em{color:darkcyan}
+ol{
+list-style-type:lower-latin;
+font-size:18pt;
+line-height:1.5;
+}
+ul{
+list-style-type: square;
+font-size: 18pt;
+line-height:1,5;
+}
+a:hover{
+text-decoration: none;
+background-color: aqua;
+color: black;
+font-style: italic;
+}
+
+#logo{
+margin: auto;
+display: block;
+width: 40%;
+}
+#pedrito{
+margin: auto;
+display: block;
+width: 30%;
+}
+#turtle{
+margin: auto;
+display: block;
+width: 75%;
 }
