@@ -38,6 +38,9 @@ font-size: 18pt;
 line-height:1,5;
 text-align: center;
 }
+li{
+    color: white;
+}
 
 a:hover{
 text-decoration: none;
